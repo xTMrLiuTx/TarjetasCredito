@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "CardNumber": "1234-5678-9012-3456",
+    "Balance": 1000.00,
+    "ExpirationDate": "2024-01-01T00:00:00Z",
+    "IsBlocked": false,
+    "MovementHistory": [],
+    "Notifications": [],
+    "Payments": []
+  },
+  {
+    "Id": 2,
+    "CardNumber": "2345-6789-0123-4567",
+    "Balance": 2000.00,
+    "ExpirationDate": "2025-01-01T00:00:00Z",
+    "IsBlocked": false,
+    "MovementHistory": [],
+    "Notifications": [],
+    "Payments": []
+  },
+  {
+    "Id": 3,
+    "CardNumber": "3456-7890-1234-5678",
+    "Balance": 3500.00,
+    "ExpirationDate": "2025-03-10T00:00:00Z",
+    "IsBlocked": false,
+    "MovementHistory": [],
+    "Notifications": [],
+    "Payments": []
+  }
+]
